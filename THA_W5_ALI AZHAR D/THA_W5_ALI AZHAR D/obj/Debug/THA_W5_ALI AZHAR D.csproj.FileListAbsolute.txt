@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\bin\Debug\THA_W5_ALI AZHAR D.exe.config
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\bin\Debug\THA_W5_ALI AZHAR D.exe
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\bin\Debug\THA_W5_ALI AZHAR D.pdb
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\obj\Debug\THA_W5_ALI AZHAR D.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\obj\Debug\THA_W5_ALI AZHAR D.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\obj\Debug\THA_W5_ALI_AZHAR_D.Properties.Resources.resources
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\obj\Debug\THA_W5_ALI AZHAR D.csproj.GenerateResource.cache
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\obj\Debug\THA_W5_ALI AZHAR D.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\obj\Debug\THA_W5_ALI AZHAR D.exe
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\obj\Debug\THA_W5_ALI AZHAR D.pdb
+C:\Users\User\source\repos\THA_W5_ALI AZHAR D\THA_W5_ALI AZHAR D\obj\Debug\THA_W5_ALI_AZHAR_D.Form_AliAzharD.resources
